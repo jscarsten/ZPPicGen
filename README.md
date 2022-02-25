@@ -1,3 +1,6 @@
+NOTE : This is meant to be a demo of the old version of the code (developed around 2019)
+
+
 TO run this build of ZPPicGen.py:
   - You will need python installed (pip/python, pip3/python3)
   - You will need pandas / PIL
