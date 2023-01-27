@@ -33,6 +33,8 @@ Optional Arguments:
     - In order for this to run properly, use the [-p] option to specify the path you want the tar file to be
       generated in.
     - For .gz compression, need to make small change to tar codeblock at bottom of script.
+      
+New changes
     - Also later builds are able to read the input files from a <BaseName>_input_files.tar file.
   - [-d] Generates a <BaseName>_ResistorValues.csv file.
     - This file contains useful information about the resistors in the <BaseName> pnp.csv file
